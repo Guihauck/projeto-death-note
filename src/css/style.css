@@ -1,0 +1,97 @@
+.corpo-de-visualizacao {
+  background-color: black;
+  font-family: mulish, calibri ;
+}
+
+.corpo-de-visualizacao .personagens-tela-principal {
+  color: aliceblue;
+}
+
+.logo-anime {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 15px;
+}
+
+.logo-anime .imagem-logo {
+  width: 427px;
+  height: 115px;
+}
+
+.personagens-tela-principal .personagens-ilustrados .imagem-light-yagami {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 210px;
+  height: 274px;
+}
+
+.personagens-tela-principal .personagens-ilustrados .imagem-L {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 179px;
+  height: 265px;
+}
+
+.personagens-tela-principal .personagens-ilustrados .imagem-Misa {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 200px;
+  height: 265px;
+}
+
+.personagens-tela-principal {
+  display: flex;
+  justify-content: center;
+}
+
+.personagens-tela-principal .descricao-personagens .descricao-light {
+  margin: 50px;
+  margin-left: 50px;
+  width: 938px;
+  height: 185px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.personagens-tela-principal .descricao-personagens .descricao-L {
+  margin: 50px;
+  margin-left: 50px;
+  margin-top: 100px;
+  width: 938px;
+  height: 185px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.personagens-tela-principal .descricao-personagens .descricao-Misa {
+  margin: 50px;
+  margin-left: 50px;
+  margin-top: 200px;
+  width: 938px;
+  height: 185px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.personagens-tela-principal .descricao-personagens .descricao-Mikami {
+  margin: 50px;
+  margin-left: 50px;
+  margin-top: 100px;
+  width: 938px;
+  height: 185px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.personagens-ilustrados .nomes-dos-personagens {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 25px;
+}
